@@ -1,0 +1,55 @@
+
+createe a new Vue 3 project
+    install axios
+    install Tailwind
+    configure the template paths 
+    make sure everything is running as planned 
+
+Set up the app.vue file
+Signup page    
+log in page 
+create static feed page
+create static message page
+static search page
+    ===creating a component file for mostly ru-used codes 
+Create a toast component    
+
+
+Settting Up our backend django
+  virtual environment
+  install django
+  install djangorestframework
+  install djangorestframework-simplejwt
+  install django-cors-headers
+     config csrf and cors
+  install pillow= which is basically helpfull images 
+
+
+  Creating app for custom usermodel(remember uuid)
+  conf the jwt urls 
+
+  make it possible to signup
+  make it possible to login(get access token and refresh token )
+  fix button in munu when authenticated
+
+
+  creating an app for the post 
+    model post 
+    model postattachment
+  setting up the serializers  
+  setting up my views/urls
+
+
+get a test feed/show in the fronted-- your own post 
+  
+make it possible to add post   
+make it possible to view profile
+    fix the correct name on the profile
+    Hide the post form when visiting the user profile
+Set up a simple search   
+conver feed into a separate component 
+
+Set a friendship model 
+make it possible to send a friendly request 
+make it possible to accept a friendly request 
+prevent sending multiple friendly request to the same user 
